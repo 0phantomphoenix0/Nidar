@@ -14,7 +14,7 @@ A quadcopter is the optimal platform for surveillance in disaster-stricken envir
  lines, trees, and damaged buildings, quick directional changes and precision hovering are crucial capabilities where quadcopters excel. But the most important one of them all is the faster deployment.
 
 2. System Architecture
-### Airframe
+
 Type: Quadrotor(H or X type)
 1. Material: Carbon fiber or aluminium alloy for durability and lightweight
 2.Camera: Gimbal-stabilized FHD+ camera (1440p) for real-time video
@@ -23,6 +23,7 @@ Type: Quadrotor(H or X type)
 5. Microcontroller: Pixhawk or CubePilot flight controller
 6. Flight computer:Raspberry Pi Compute 4 Module with Nano Base Board (NBB)
 8. Communication Link: 4G/LTE module or 5.8 GHz analog video transmitter with a ground receiver
+9. Power supply: split Li-ion battery system
 
 ## Drone 2: payload dropping
 Type: Hexacopter
