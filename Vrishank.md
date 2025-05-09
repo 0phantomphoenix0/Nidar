@@ -15,16 +15,18 @@ A quadcopter is the optimal platform for surveillance in disaster-stricken envir
 
 2. System Architecture
 ### Airframe
-Type: Quadrotor
+Type: Quadrotor(H or X type)
 1. Material: Carbon fiber or aluminium alloy for durability and lightweight
 2.Camera: Gimbal-stabilized FHD+ camera (1440p) for real-time video
 3. GPS Module: u-blox NEO-M8N or similar for precise location tracking
 4. Speaker: Waterproof Speaker with 85–100 dB output at 1m.
 5. Microcontroller: Pixhawk or CubePilot flight controller
-6. Communication Link: 4G/LTE module or 5.8 GHz analog video transmitter with a ground receiver
+6. Flight computer:Raspberry Pi Compute 4 Module with Wave Share Nano Base Board (WSNBB)
+8. Communication Link: 4G/LTE module or 5.8 GHz analog video transmitter with a ground receiver
 
 ## Drone 2: payload dropping
 Type: Hexacopter
+
 A hexacopter is well-suited for payload delivery missions in disaster relief scenarios due to its higher lifting capacity, greater stability, and built-in redundancy. 
 When delivering essential supplies like food, water, or medicine to stranded individuals, the drone must carry significant weight and maintain stable flight, even in turbulent conditions.
 
