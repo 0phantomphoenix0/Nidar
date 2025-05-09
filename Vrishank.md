@@ -21,7 +21,7 @@ Type: Quadrotor(H or X type)
 3. GPS Module: u-blox NEO-M8N or similar for precise location tracking
 4. Speaker: Waterproof Speaker with 85–100 dB output at 1m.
 5. Microcontroller: Pixhawk or CubePilot flight controller
-6. Flight computer:Raspberry Pi Compute 4 Module with Wave Share Nano Base Board (WSNBB)
+6. Flight computer:Raspberry Pi Compute 4 Module with Nano Base Board (NBB)
 8. Communication Link: 4G/LTE module or 5.8 GHz analog video transmitter with a ground receiver
 
 ## Drone 2: payload dropping
